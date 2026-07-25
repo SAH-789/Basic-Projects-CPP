@@ -126,8 +126,8 @@ public:
             cout << "Your Answer Is Correct " << endl;
 
             score++;
-            cout << "But I Love Cyber Security" << endl<<endl;
-        }
+            cout << "But My Favourite Cyber Security" << endl<<endl; //just for fun
+        } 
         else
         {
             cout << "Wrong Answer" << endl;
